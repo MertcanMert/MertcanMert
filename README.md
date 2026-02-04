@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Currently Working On
-- **[Nexus-API] (https://github.com/MertcanMert/nexus-api)** – Scalable backend architecture project
+- **[Nexus-API](https://github.com/MertcanMert/nexus-api)** – Scalable backend architecture project
 - **[armert-dto-for-nestjs](https://www.npmjs.com/package/armert-dto-for-nestjs)** – My npm package for NestJS DTO utilities
 
 ### 🌱 Currently Learning
