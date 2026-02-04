@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
@@ -45,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=storybook" height="60" alt="Storybook" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="60" alt="Jest" />
 </div>
@@ -61,28 +60,27 @@
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL"/>
 </div>
 
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertcanmert&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanmert&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,graphql,nodejs,nextjs" height="50" alt="Top Languages"/>
+</div>
+
 
 ---
 
 ### 🎮 Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/light.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/<your-username>/pacman-graph/output/light.svg">
+</picture>
+
 </p>
 
 ---
