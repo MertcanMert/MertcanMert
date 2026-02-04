@@ -69,13 +69,6 @@
 
 ---
 
-### 🎮 Contribution Graph
-<p align="center">
-  <img alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=MertcanMert&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 🔰 Repos & Packages
 - [armert-dto-for-nestjs](https://www.npmjs.com/package/armert-dto-for-nestjs) ![npm](https://img.shields.io/npm/v/armert-dto-for-nestjs?color=blue)
 - [armert-dto-for-nestjs GitHub Repo](https://github.com/MertcanMert/armert-dto-for-nestjs) ![GitHub Repo stars](https://img.shields.io/github/stars/MertcanMert/armert-dto-for-nestjs?style=social)
