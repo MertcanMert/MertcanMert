@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertcanmert" alt="Trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MertcanMert&theme=darkhub" alt="Trophies" />
 </p>
 
 ---
@@ -78,9 +78,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/light.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/<your-username>/pacman-graph/output/light.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/light.svg">
 </picture>
-
 </p>
 
 ---
