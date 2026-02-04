@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mertcanmert&label=Profile%20views&color=0e75b6&style=flat" alt="mertcanmert" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MertcanMert&theme=darkhub" alt="Trophies" />
-</p>
-
 ---
 
 ### 🔭 Currently Working On
@@ -75,11 +71,7 @@
 
 ### 🎮 Contribution Graph
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/light.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MertcanMert/pacman-graph/output/light.svg">
-</picture>
+  <img alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=MertcanMert&theme=dark&hide_border=true" />
 </p>
 
 ---
