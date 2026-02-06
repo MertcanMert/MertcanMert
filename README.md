@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mertcan Mert</h1>
-<h3 align="center">Backend Engineer | API & Fullstack Developer from Turkey</h3>
+<h3 align="center">
+Backend Engineer · API Architect · Open Source Maintainer<br/>
+NestJS · TypeScript · SaaS Infrastructure
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mertcanmert&label=Profile%20views&color=0e75b6&style=flat" alt="mertcanmert" />
@@ -7,25 +10,122 @@
 
 ---
 
-### 🔭 Currently Working On
-- **[Nexus-API](https://github.com/MertcanMert/nexus-api)** – Scalable backend architecture project
-- **[armert-dto-for-nestjs](https://www.npmjs.com/package/armert-dto-for-nestjs)** – My npm package for NestJS DTO utilities
+## 🧠 About Me
 
-### 🌱 Currently Learning
-- GraphQL, Next.js 14, Advanced TypeScript, NestJS
+I design **production-grade backend systems** with a strong focus on:
 
-### 👯 Collaboration
-- Open Source Node.js Libraries, API-focused projects
+- **API contracts & response consistency**
+- **Error management & observability**
+- **Scalable NestJS architectures**
+- **SaaS-ready infrastructure (multi-tenant mindset)**
 
-### 💬 Ask Me About
-- React, NestJS, Clean Architecture, Agile best practices
-
-### 📫 Contact
-- Email: mertcan@armert.com.tr  
-- Portfolio / Personal Site: [https://armert.com.tr](https://armert.com.tr)  
-- Blog: [https://dev.to/mertcanmert](https://dev.to/mertcanmert)
+I don’t build demos.  
+I build **foundations that survive production**.
 
 ---
+
+## 🚀 Flagship Projects
+
+### 🔹 NexusAPI
+**Enterprise-grade NestJS backend foundation**
+
+- Modular architecture
+- Security-first design
+- SaaS & multi-tenant ready
+- Clean separation of concerns
+
+🔗 GitHub: https://github.com/MertcanMert/nexus-api
+
+---
+
+### 🔹 NexuS API V2 – Response System
+**Advanced Response & Error Management for NestJS**
+
+A dedicated system that standardizes **every response**, **every error**, and **every log**.
+
+- Deterministic API responses
+- Centralized error categorization
+- Developer-friendly console observability
+- Production-ready logging (JSON / ELK-friendly)
+
+🔗 GitHub:  
+https://github.com/MertcanMert/nexus-api-v2-response-system
+
+📦 NPM Package:  
+https://www.npmjs.com/package/nexus-api-v2-response-system  
+![npm](https://img.shields.io/npm/v/nexus-api-v2-response-system?color=cb0000)
+
+---
+
+### 🔹 armert-dto-for-nestjs
+**Reusable DTO utilities for NestJS**
+
+- Cleaner DTO definitions
+- Validation consistency
+- Reduced boilerplate
+
+📦 NPM: https://www.npmjs.com/package/armert-dto-for-nestjs  
+🔗 GitHub: https://github.com/MertcanMert/armert-dto-for-nestjs  
+![npm](https://img.shields.io/npm/v/armert-dto-for-nestjs?color=blue)
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+- **TypeScript**
+- **NestJS**
+- **Node.js**
+- **PostgreSQL / Prisma**
+- **Redis**
+
+### Frontend (when needed)
+- React
+- Next.js
+- TailwindCSS
+
+### API & Infra
+- REST / OpenAPI
+- GraphQL
+- Docker
+- Jest
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,postgres,redis,react,nextjs,graphql,docker,jest" />
+</div>
+
+---
+
+## 📦 Open Source Focus
+
+I actively build and maintain:
+- **NPM packages**
+- **Backend infrastructure modules**
+- **Opinionated but extensible architectures**
+
+My goal is simple:
+> Reduce backend entropy. Increase system correctness.
+
+---
+
+## 📫 Contact & Presence
+
+- 📧 Email: **mertcan@armert.com.tr**
+- 🌐 Website: https://armert.com.tr
+- ✍️ Blog: https://dev.to/mertcanmert
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&theme=default&hide_border=true" />
+</div>
+
+
+
+---
+
 
 ### 🛠 Languages & Tools
 <div align="center">
@@ -61,14 +161,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,graphql,nodejs,nextjs" height="50" alt="Top Languages"/>
-</div>
 
-
----
-
-### 🔰 Repos & Packages
-- [armert-dto-for-nestjs](https://www.npmjs.com/package/armert-dto-for-nestjs) ![npm](https://img.shields.io/npm/v/armert-dto-for-nestjs?color=blue)
-- [armert-dto-for-nestjs GitHub Repo](https://github.com/MertcanMert/armert-dto-for-nestjs) ![GitHub Repo stars](https://img.shields.io/github/stars/MertcanMert/armert-dto-for-nestjs?style=social)
+<p align="center">
+<sub>
+Backend is not about endpoints.<br/>
+It’s about guarantees.
+</sub>
+</p>
