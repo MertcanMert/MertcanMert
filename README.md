@@ -110,7 +110,7 @@ I actively build and maintain:
 My goal is simple:
 > Reduce backend entropy. Increase system correctness.
 
----
+
 
 ## 📫 Contact & Presence
 
@@ -118,13 +118,13 @@ My goal is simple:
 - 🌐 Website: https://armert.com.tr
 - ✍️ Blog: https://dev.to/mertcanmert
 
----
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MertcanMert" />
+</p>
 
----
 
 <p align="center">
 <sub>
