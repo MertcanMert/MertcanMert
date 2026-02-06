@@ -71,7 +71,6 @@ https://www.npmjs.com/package/armert-dto-for-nestjs
 🔗 GitHub: 
 https://github.com/MertcanMert/armert-dto-for-nestjs  
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -98,7 +97,6 @@ https://github.com/MertcanMert/armert-dto-for-nestjs
   <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,postgres,redis,graphql,docker,jest,tailwind,react,nextjs" />
 </p>
 
----
 
 ## 📦 Open Source Focus
 
@@ -111,19 +109,11 @@ My goal is simple:
 > Reduce backend entropy. Increase system correctness.
 
 
-
 ## 📫 Contact & Presence
 
 - 📧 Email: **mertcan@armert.com.tr**
 - 🌐 Website: https://armert.com.tr
 - ✍️ Blog: https://dev.to/mertcanmert
-
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MertcanMert" />
-</p>
 
 
 <p align="center">
