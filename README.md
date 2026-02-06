@@ -90,9 +90,9 @@ https://www.npmjs.com/package/nexus-api-v2-response-system
 - Docker
 - Jest
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,postgres,redis,react,nextjs,graphql,docker,jest" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,postgres,redis,graphql,docker,jest,tailwind,react,nextjs" />
+</p>
 
 ---
 
@@ -118,49 +118,11 @@ My goal is simple:
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&theme=default&hide_border=true" />
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
 ---
-
-
-### 🛠 Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="Jest" />
-</div>
-
-### 🏆 Top Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
-  <img width="12" />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-</div>
-
-
----
-
 
 <p align="center">
 <sub>
