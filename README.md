@@ -64,9 +64,13 @@ https://www.npmjs.com/package/nexus-api-v2-response-system
 - Validation consistency
 - Reduced boilerplate
 
-📦 NPM: https://www.npmjs.com/package/armert-dto-for-nestjs  
-🔗 GitHub: https://github.com/MertcanMert/armert-dto-for-nestjs  
+📦 NPM: 
+https://www.npmjs.com/package/armert-dto-for-nestjs
 ![npm](https://img.shields.io/npm/v/armert-dto-for-nestjs?color=blue)
+
+🔗 GitHub: 
+https://github.com/MertcanMert/armert-dto-for-nestjs  
+
 
 ---
 
@@ -118,9 +122,7 @@ My goal is simple:
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&hide_border=true&theme=transparent" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertcanMert&show_icons=true&hide_border=true)
 
 ---
 
