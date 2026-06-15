@@ -133,8 +133,6 @@ Building opinionated, production-ready backend infrastructure and developer tool
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MertcanMert&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MertcanMert&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 ---
